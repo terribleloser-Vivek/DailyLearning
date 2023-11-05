@@ -1,0 +1,82 @@
+ GIT Commands :
+
+$ git init  
+Run with no arguments to initialize the current directory as a git repository
+Hidden Directory(.git) storing all the information about Version Control 
+ 
+$ git init <directory>  
+Create empty Git repo in specified directory. 
+ 
+$ git clone <repo>  
+Clone repo located at <repo> onto local machine. 
+      e.g: $ git clone https://github.com/lekhansh109/Practice-Project.git
+ 
+$ git config user.name <name>  
+Define author name to be used for all commits in current repo.
+
+$ git config --global user.name <name>  
+--global flag is used to set config options for current user.
+  
+$ git config user.email <email>   
+Configure user email for the current repo.
+ 
+$ git branch -a   
+List all of the branches in your repo.
+
+$ git branch <branch>  
+create a new branch with the name <branch>.
+ 
+$ git checkout <branch>   
+to checkout an existing branch named branch.
+
+$ git checkout -b <branch>   
+Create and check out a new branch named <branch>.
+ 
+$ git merge <branch>     
+Merge <branch> into the current branch.
+ 
+$ git status    
+List which files are staged, unstaged, and untracked.
+ 
+$ git add .     
+Stage all the changes for the next commit.
+
+$ git add <file>   
+Stage the changes in a specific file.
+ 
+$ git commit -m "message"    
+Commit the staged snapshot with <message> as the commit message.
+ 
+$ git commit -a -m <message>   
+stage all the changes and commit the staged snapshot with <message> as the commit message.
+ 
+$ git log   
+Display the entire commit history using the default format.
+
+$ git log -<limit>   
+Limit number of commits by <limit>. 
+                        e.g. ”git log -5” will limit to 5 commits.
+ 
+$ git log -p   
+Display the full diff of each commit.
+ 
+$ git reset <file>    
+Remove <file> from the staging area, but leave the working directory unchanged. This unstages a file without overwriting any changes.
+ 
+$ git revert <commit>   
+Create new commit that undoes all of the changes made in <commit>, then apply it to the current branch.
+ 
+$ git diff    
+diff of what is changed but not staged.
+
+$ git diff --staged   
+diff of what is staged but not yet committed.
+ 
+$ git diff --cached   
+Show difference between staged changes and last commit.
+ 
+ 
+ 
+$ git pull  ->  fetch and merge any commits from the tracking remote branch.
+ 
+$ git push  ->  Transmit local branch commits to the remote repository branch. 
