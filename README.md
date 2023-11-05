@@ -1,4 +1,4 @@
-# Welcome Techies, Everyday comes with another 24 hrs to work and learn something new! ���
+# Welcome Techies, Everyday comes with another 24 hrs to work and learn something new! 👨‍💻🌃🖥️
 "In order to be irreplaceable, one must always be different..."
 
 ## Overview
@@ -10,8 +10,22 @@ A collection of resources categorised by tech domains, languages, expertise and 
 Our content is divided by programming language. Please create an issue if you wish to add code in a language that we don't currently have here. **Do not create folders in your submissions unless specifically told to do so.**
 
 ###  Programming Languages :
-> C programming languages 
-  - [ ]  
+> C programming languages
+- C is a procedural programming language initially developed by Dennis Ritchie in the year 1972 at Bell Laboratories of AT&T Labs. It was mainly developed as a system programming language to write the UNIX operating system
+- Topics RoadMap :
+  - [ ]  Overview of C
+  - [ ]  C Programming Techniques
+  - [ ]  Operators Tokens Keywords Data Types
+  - [ ]  First Look Of C
+  - [ ]  Decision Making in C
+  - [ ]  Loops in C
+  - [ ]  Arrays in C
+  - [ ]  Pointer Variable
+  - [ ]  Functions in C
+  - [ ]  Strings
+  - [ ]  Used Defined Data Type - Structure and Union
+  - [ ]  Dynamic Memory Allocation
+  - [ ]  File Handling
 > C++ Programming language
 
 ### Data Structure and Algorithm
@@ -36,9 +50,16 @@ Our content is divided by programming language. Please create an issue if you wi
 
 ### Tools and IDES
 > Version Control : Git/Github
-## Authors
-- [@terrible-loser](https://github.com/terribleloser-Vivek)
+- What is Version Control, GIT, GITHUB | Installation and Configuration of GIT
+- Local repository - Staging, Commit, Stashingm, CLoning, Pushing.
+> IDE : Visual Studio Code, Notepad++, SQL Developer
 
-A collection of resources categorised by tech domains, languages, expertise and much more. Blogzen gives you a quick access to all the resources that you could need at a single place, within a click!
-
+---
+<footer>
+  
+ <h1 align="center" >Author : VIVEK KUMAR SINGH!</h1>
+ <p align="center">
+ <p > <h3 align="center" > © 2023 Vivek Kumar Singh, all rights reserved. Made with ❤️ for a better web. </h3></p>
+<h5 align="center">  Ready to play Football 24/7, wanna spend some good time - get one ⚽ !! </h5>
+</footer>
 
