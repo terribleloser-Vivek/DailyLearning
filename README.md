@@ -13,7 +13,7 @@ Our content is divided by programming language. Please create an issue if you wi
 > C programming languages
 - C is a procedural programming language initially developed by Dennis Ritchie in the year 1972 at Bell Laboratories of AT&T Labs. It was mainly developed as a system programming language to write the UNIX operating system
 - Topics RoadMap :
-  - [ ]  Overview of C
+  - [ ]  Overview of C : What is C,History, Introduction and First Program as per coding Parampapra -- "hello, World !"
   - [ ]  C Programming Techniques
   - [ ]  Operators Tokens Keywords Data Types
   - [ ]  First Look Of C
@@ -50,8 +50,10 @@ Our content is divided by programming language. Please create an issue if you wi
 
 ### Tools and IDES
 > Version Control : Git/Github
-- What is Version Control, GIT, GITHUB | Installation and Configuration of GIT
-- Local repository - Staging, Commit, Stashingm, CLoning, Pushing.
+  - What is Version Control, GIT, GITHUB | Installation and Configuration of GIT
+  - Gi
+  - Repository - Local/Remote, Work Directory, Staging, Commit, Stashing, Cloning, Pushing.
+
 > IDE : Visual Studio Code, Notepad++, SQL Developer
 
 ---
