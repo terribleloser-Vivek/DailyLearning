@@ -95,3 +95,4 @@ Lastly, you’re required to get a thorough understanding of File Management & P
 
 | So, without any delay, dive into the C programming world and enhance your programming skills for various career opportunities!
  
+https://www.geeksforgeeks.org/c-programming-for-beginners-a-20-day-curriculum/ -- >Study and Practice from GFG | Leetcode | Hackerrank 
